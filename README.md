@@ -10,7 +10,8 @@
 - **Stay on Top**: The clock widget stays on top of other windows.
 - **Live Clock**: The time updates every second to ensure accuracy.
 
-## Installation
+## Installation (after cloning)
+
 
 ```bash
 npm install --save-dev electron-packager
