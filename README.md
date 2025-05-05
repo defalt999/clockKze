@@ -10,6 +10,10 @@
 - **Stay on Top**: The clock widget stays on top of other windows.
 - **Live Clock**: The time updates every second to ensure accuracy.
 
+## Demo
+
+![Demo](https://github.com/defalt999/clockKze/blob/main/eye.png?raw=true)
+
 ## Installation (after cloning)
 
 
